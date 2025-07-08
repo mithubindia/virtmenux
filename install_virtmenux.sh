@@ -31,8 +31,8 @@
 # ==========================================================
 
 # Configuration ============================================
-REPO_URL="188.245.167.32://virtmenux/main"
-UTILS_URL="188.245.167.32s://virtmenux/main/scripts/utils.sh"
+REPO_URL="https://raw.githubusercontent.com/mithubindia/virtmenux/main"
+UTILS_URL="https://raw.githubusercontent.com/mithubindia/virtmenux/main/scripts/utils.sh"
 INSTALL_DIR="/usr/local/bin"
 BASE_DIR="/usr/local/share/virtmenux"
 CONFIG_FILE="$BASE_DIR/config.json"
